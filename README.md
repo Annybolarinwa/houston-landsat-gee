@@ -25,6 +25,40 @@ The analysis includes cloud masking, Landsat scale-factor application, summer me
 - Matplotlib
 - SciPy
 
+## Results
+
+### Surface Conditions in 2025
+
+The maps below show the spatial distribution of vegetation greenness, built-up and non-vegetated surface characteristics, and land surface temperature across Harris County during summer 2025.
+
+#### NDVI
+
+![Summer NDVI in Harris County, Texas (2025)](figures/ndvi_2025.png)
+
+#### NDBI
+
+![Summer NDBI in Harris County, Texas (2025)](figures/ndbi_2025.png)
+
+#### Land Surface Temperature
+
+![Summer Land Surface Temperature in Harris County, Texas (2025)](figures/lst_2025.png)
+
+### Changes from 2015 to 2025
+
+The following maps show spatial changes between the 2015 and 2025 summer composites. Positive and negative values represent the direction of change over the study period.
+
+#### NDVI Change
+
+![NDVI Change in Harris County, Texas (2015–2025)](figures/ndvi_change_2015_2025.png)
+
+#### NDBI Change
+
+![NDBI Change in Harris County, Texas (2015–2025)](figures/ndbi_change_2015_2025.png)
+
+#### Land Surface Temperature Change
+
+![Land Surface Temperature Change in Harris County, Texas (2015–2025)](figures/lst_change_2015_2025.png)
+
 ## Study Period
 
 2015–2025
